@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe2b1d20-7829-41e0-8eb1-c594f755905b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Kata-FizzBuzz-Starter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/red-green-refactor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/starter.py" afterDir="false" />
+    <list default="true" id="e1ccf500-7a1d-489c-8b92-b90ddb72afbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Kata-FizzBuzz-PXLDigital-26Mar2024.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kata-FizzBuzz-Starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -34,25 +33,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2eC3MUfY88LyZB7pN6tWmD9mKNT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2eDTJ3ePu1dZk7jW1i04h0tfbL3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python tests.pytest.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.starter (1).executor": "Run",
-    "Python.starter.executor": "Run",
+    "Python tests.Python tests in tests.executor": "Run",
+    "Python tests.pytest in Kata-FizzBuzz-PXLDigital-26Mar2024.executor": "Run",
+    "Python tests.pytest in bin.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/workspace/PXL/Kata-FizzBuzz-Starter",
+    "last_opened_file_path": "C:/workspace/PXL/Kata-FizzBuzz-PXLDigital-26Mar2024",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,17 +62,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workspace\PXL\Kata-FizzBuzz-Starter" />
+      <recent name="C:\workspace\PXL\Kata-FizzBuzz-PXLDigital-26Mar2024\tests" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="pytest" type="tests" factoryName="py.test">
-      <module name="Kata-FizzBuzz-Starter" />
+    <configuration name="pytest in Kata-FizzBuzz-PXLDigital-26Mar2024" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="Kata-FizzBuzz-PXLDigital-26Mar2024" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="C:\workspace\PXL\Kata-FizzBuzz-Starter\venv\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11 (Kata-FizzBuzz-Starter)" />
+      <option name="SDK_HOME" value="C:\workspace\PXL\Kata-FizzBuzz-PXLDigital-26Mar2024\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (Kata-FizzBuzz-PXLDigital-26Mar2024)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -97,12 +96,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe2b1d20-7829-41e0-8eb1-c594f755905b" name="Changes" comment="" />
-      <created>1711394685419</created>
+      <changelist id="e1ccf500-7a1d-489c-8b92-b90ddb72afbd" name="Changes" comment="" />
+      <created>1711438074311</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711394685419</updated>
-      <workItem from="1711394691516" duration="1181000" />
+      <updated>1711438074311</updated>
+      <workItem from="1711438077633" duration="1325000" />
     </task>
     <servers />
   </component>
@@ -110,8 +109,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_Starter$pytest.coverage" NAME="pytest Coverage Results" MODIFIED="1711395561472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_Starter$main.coverage" NAME="starter Coverage Results" MODIFIED="1711395015008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_Starter$starter__1_.coverage" NAME="starter (1) Coverage Results" MODIFIED="1711395004831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_PXLDigital_26Mar2024$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1711438128144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_PXLDigital_26Mar2024$.coverage" NAME=" Coverage Results" MODIFIED="1711439117605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_PXLDigital_26Mar2024$pytest_in_Kata_FizzBuzz_PXLDigital_26Mar2024.coverage" NAME="pytest in Kata-FizzBuzz-PXLDigital-26Mar2024 Coverage Results" MODIFIED="1711439251416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

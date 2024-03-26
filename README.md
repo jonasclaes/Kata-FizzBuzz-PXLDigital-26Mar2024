@@ -1,4 +1,4 @@
-# Starter Projects Kata
+# FizzBuzz Kata - PXLDigital - 26 Mar 2024
 
 This sample project helps you to get started with the FizzBuzz TDD kata
 
