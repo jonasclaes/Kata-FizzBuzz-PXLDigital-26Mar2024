@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1ccf500-7a1d-489c-8b92-b90ddb72afbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Kata-FizzBuzz-PXLDigital-26Mar2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Kata-FizzBuzz-Starter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e1ccf500-7a1d-489c-8b92-b90ddb72afbd" name="Changes" comment="docs: update README with name of kata">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter.py" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzzgame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_starter.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_starter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,16 +96,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711438074311</updated>
-      <workItem from="1711438077633" duration="1325000" />
+      <workItem from="1711438077633" duration="7357000" />
     </task>
+    <task id="LOCAL-00001" summary="docs: update README with name of kata">
+      <option name="closed" value="true" />
+      <created>1711439516439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711439516439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: update README with name of kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: update README with name of kata" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Kata_FizzBuzz_PXLDigital_26Mar2024$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1711438128144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Kata_FizzBuzz_PXLDigital_26Mar2024$.coverage" NAME=" Coverage Results" MODIFIED="1711439117605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_PXLDigital_26Mar2024$pytest_in_Kata_FizzBuzz_PXLDigital_26Mar2024.coverage" NAME="pytest in Kata-FizzBuzz-PXLDigital-26Mar2024 Coverage Results" MODIFIED="1711439251416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Kata_FizzBuzz_PXLDigital_26Mar2024$pytest_in_Kata_FizzBuzz_PXLDigital_26Mar2024.coverage" NAME="pytest in Kata-FizzBuzz-PXLDigital-26Mar2024 Coverage Results" MODIFIED="1711446088828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
